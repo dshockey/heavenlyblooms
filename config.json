@@ -1,0 +1,17 @@
+{
+  "baseURL": "",
+  "languageCode": "en-us",
+  "title": "Heavenly Blooms by Hannah Yoho",
+  "theme": "shockey",
+  "params": {
+    "favicon": "/favicon.ico"
+  },
+  "Menus": {
+    "main": [
+      {
+        "name": "Daryl-Rules",
+        "url": "https://www.google.com"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Heavenly Blooms by Hannah Yoho</title>
+    <link>/</link>
+    <description>Recent content in Home on Heavenly Blooms by Hannah Yoho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 09:24:14 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Tue, 13 Aug 2024 18:07:55 -0400</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Here we go with our very first post!</description>
+    </item>
+    
+    <item>
+      <title>Flowers</title>
+      <link>/flowers/</link>
+      <pubDate>Thu, 01 Aug 2024 09:24:14 -0400</pubDate>
+      
+      <guid>/flowers/</guid>
+      <description>About Daryl is learning Hugo. This is a draft flowers page.</description>
+    </item>
+    
+  </channel>
+</rss>
