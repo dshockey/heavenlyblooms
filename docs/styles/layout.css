@@ -1,0 +1,36 @@
+.outer-body-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+}
+
+.split-set-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.split-set-container > div {
+  width: 50%;
+  border: 1px solid black;
+}
+
+.split-set-subcontainer-large {
+  width: 75%;
+}
+
+.unified-banner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em;
+}
+
+.unified-banner-container,
+.unified-banner-container > div,
+.unified-banner-container > span {
+  font-size: 2em;
+  font-weight: bold;
+}

@@ -1,0 +1,12 @@
+body, html {
+  margin:0; padding: 0;
+  height: 100%;
+}
+
+body {
+  background-color: rgb(215, 228, 187);
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.6;
+}
